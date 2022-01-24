@@ -215,7 +215,7 @@ public class Library {
     }
     catch(Exception e)
     {
-        System.out.println(e);
+        System.out.println("\n List is Empty...");
     }
 }
 
@@ -556,7 +556,7 @@ public class Library {
     }
     catch(Exception e)
     {
-        System.out.println(e);
+        System.out.println("\n List is Empty...);
     }
 }
 
