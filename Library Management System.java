@@ -190,7 +190,7 @@ public class Library {
         }
     }
 
-    private static void view() {
+    private static void view(){
         try{
         JFrame f = new JFrame();
         int n = books.size();
